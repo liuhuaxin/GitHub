@@ -16,3 +16,8 @@ D:\学习资料\C#工程\正则匹配\regular\regular\obj\Debug\Interop.Office.d
 D:\学习资料\C#工程\正则匹配\regular\regular\obj\Debug\regular.csproj.ResolveComReference.cache
 D:\学习资料\C#工程\正则匹配\regular\regular\obj\Debug\WindowsFormsApplication1.exe
 D:\学习资料\C#工程\正则匹配\regular\regular\obj\Debug\WindowsFormsApplication1.pdb
+D:\学习资料\GitHub\regular\regular\bin\Debug\WindowsFormsApplication1.exe.config
+D:\学习资料\GitHub\regular\regular\obj\Debug\Interop.Office.dll
+D:\学习资料\GitHub\regular\regular\obj\Debug\regular.csproj.ResolveComReference.cache
+D:\学习资料\GitHub\regular\regular\obj\Debug\WindowsFormsApplication1.exe
+D:\学习资料\GitHub\regular\regular\obj\Debug\WindowsFormsApplication1.pdb

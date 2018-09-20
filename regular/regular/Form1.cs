@@ -83,7 +83,7 @@ namespace WindowsFormsApplication1
             //SaveFileDialog sfd = new SaveFileDialog();
             //sfd.Title = "导出为Excel文件";
             ////设置文件类型 
-            //sfd.Filter = "所有文件(*xls*)|*.xls*"; //设置要选择的文件的类
+            //sfd.Filter = "所有文件(*xls*)|*.xls*"; //设置要选择的文件后缀
             ////设置默认文件类型显示顺序 
             //sfd.FilterIndex = 1;
 
